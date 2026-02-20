@@ -28,8 +28,8 @@ const URL_MAP = {
   "||miniblox.*textures/models/armor/diamond_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/diamond_layer_2.png",
   "||miniblox.*textures/models/armor/emerald_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/emerald_layer_1.png",
   "||miniblox.*textures/models/armor/emerald_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/emerald_layer_2.png",
-  "||miniblox.*textures/models/armor/infernium_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/infernium_layer_1.png",
-  "||miniblox.*textures/models/armor/infernium_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/infernium_layer_2.png",
+  "||miniblox.*textures/models/armor/infernium_layer_1.png": "https://t.novaskin.me/b79c5103211910c83092a30716b0ae3c334831c432694a024d4196ac3adc1adf",
+  "||miniblox.*textures/models/armor/infernium_layer_2.png": "https://t.novaskin.me/b79c5103211910c83092a30716b0ae3c334831c432694a024d4196ac3adc1adf",
   "||miniblox.*textures/models/armor/gold_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/gold_layer_1.png",
   "||miniblox.*textures/models/armor/gold_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/gold_layer_2.png",
   "||miniblox.*textures/models/armor/iron_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/iron_layer_1.png",
@@ -69,5 +69,6 @@ chrome.declarativeNetRequest.updateDynamicRules(
     }
   }
 );
+
 
 
