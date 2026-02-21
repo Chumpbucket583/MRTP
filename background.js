@@ -36,7 +36,7 @@ const URL_MAP = {
   "||miniblox.*textures/models/armor/iron_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/iron_layer_2.png",
   "||miniblox.*textures/models/armor/leather_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/leather_layer_1.png",
   "||miniblox.*textures/models/armor/leather_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/leather_layer_2.png",
-  "||miniblox.*textures/misc/enchanted_item_glint.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/DEBUG/enchanted_item_glint.png"
+  "||miniblox.*textures/misc/enchanted_item_glint.png": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ed/Enchanted_Golden_Apple_JE2_BE2.gif/revision/latest?cb=20200430025309"
 };
 
 let rules = [];
@@ -69,6 +69,7 @@ chrome.declarativeNetRequest.updateDynamicRules(
     }
   }
 );
+
 
 
 
