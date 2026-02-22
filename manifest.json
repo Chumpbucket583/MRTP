@@ -3,7 +3,7 @@
 
   "manifest_version": 3,
   "name": "real_Texter_0w0",
-  "version": "1.6.15",
+  "version": "2.0",
   "description": "A browser extension to mod an online game. Some parts made by Hussein",
   "author": "rip_hussein, No_one, No_one",
   "background": {"service_worker": "background.js"},
